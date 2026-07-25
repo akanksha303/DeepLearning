@@ -82,8 +82,4 @@ Open the **Iris_Classification.ipynb** notebook in Jupyter Notebook or Google Co
 └── README.md
 ```
 
-## Future Improvements
 
-* Try additional machine learning algorithms.
-* Tune model hyperparameters.
-* Deploy the model as a web application using Flask or Streamlit.
